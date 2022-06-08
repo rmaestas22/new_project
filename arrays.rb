@@ -17,3 +17,10 @@ due.shift
 
 unshitf add to the beginign
 finished.unshift(true, false)
+
+
+## index postions
+
+index postions always start with zero and go up in incremints of 1
+
+paid[0] is 10 paid [2] is 30
