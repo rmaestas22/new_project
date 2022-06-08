@@ -24,3 +24,5 @@ finished.unshift(true, false)
 index postions always start with zero and go up in incremints of 1
 
 paid[0] is 10 paid [2] is 30
+
+paid.concat([70], [80], [90])
